@@ -84,3 +84,15 @@ body{
     font-size: 27px;
     margin-top: -6px;
 }
+
+.clima{
+    display: none;
+}
+
+.error{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
+}
